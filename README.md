@@ -1,2 +1,1 @@
-# tmux
-my tmux config
+hi
